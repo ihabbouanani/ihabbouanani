@@ -1,9 +1,4 @@
-<!--
-GITHUB PROFILE README — Ihab Bouanani
-File path in your repo: README.md
-Repo name must match your username exactly: ihabbouanani/ihabbouanani
-Once pushed, this renders at: https://github.com/ihabbouanani
--->
+<p align="center"><img src="https://github.com/ihabbouanani.png?size=400" width="180" alt="Ihab Bouanani"></p>
 
 <div align="center">
 
