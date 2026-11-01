@@ -7,7 +7,7 @@ Once pushed, this renders at: https://github.com/ihabbouanani
 
 <div align="center">
 
-<img src="assets/profile.jpg" alt="Ihab Bouanani" width="180" style="border-radius:50%;" />
+<img src="[https://github.com/ihabbouanani.png?size=400]" alt="Ihab Bouanani" width="180" style="border-radius:50%;" />
 
 # Ihab Bouanani
 
