@@ -109,7 +109,7 @@ I’m always open to conversations about **scaling professional services**, **la
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ihabbouanani-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihabbouanani/)
 [![Email](https://img.shields.io/badge/Email-ihab%40bgtcs22.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ihab@bgtcs22.com)
-[![Location](https://img.shields.io/badge/Location-Snohomish%2C%20WA-1F3A5F?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-South Snohomish-Millcreek%2C%20WA-1F3A5F?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 <sub>⭐ Thanks for stopping by. Let’s build something.</sub>
 
