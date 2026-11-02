@@ -1,8 +1,7 @@
-<p align="center"><img src="https://github.com/ihabbouanani.png?size=400" width="180" alt="Ihab Bouanani"></p>
-
+<p align="center"><img src="headshot.jpg.jpeg" width="180" alt="Ihab Bouanani"></p>
 <div align="center">
 
-<img src="[https://github.com/ihabbouanani.png?size=400]" alt="Ihab Bouanani" width="180" style="border-radius:50%;" />
+<img src="headshot.jpg.jpeg" width="180" alt="Ihab Bouanani">
 
 # Ihab Bouanani
 
@@ -55,7 +54,11 @@ I lead by doing. I’m energized by ambiguity, hyper-growth, and “zero-to-one�
 
 ## 🧭 Career Path
 
-**Chief Operating Officer** · Intellica, Inc. · *2025 – Present*
+**Founder & Principle** · Budget Consulting Solutions 22 Company (BGTCS22) · *Jan 2023 – Present*
+
+> Fractional COO and operations advisory for small and mid-sized businesses — operating model design, SOPs, P&L discipline, growth strategy, and investor readiness.
+
+**Chief Operating Officer** · Intellica, Inc. · *2025 – 2026*
 
 > Enterprise P&L owner across Managed Services, Professional Services, PMO, Customer Success, and Operations.
 
@@ -70,21 +73,20 @@ I lead by doing. I’m energized by ambiguity, hyper-growth, and “zero-to-one�
 -----
 
 ## 🎤 Industry Presence
+<p align="center"><img src="rdk-summit-2025.jpg.jpeg" width="600" alt="Ihab at RDK Tech Summit 2025"></p>
 
-<img src="assets/rdk-summit-2025.jpg" alt="Ihab at RDK Tech Summit 2025" width="320" align="right" />
 
 Active in the **RDK ecosystem** and broader connected-device, broadband, and Wi-Fi industry conversations — including the **RDK Tech Summit 2025**. Multi-year commercial relationships with Tier-1 OEMs and operators have repeatedly translated technical credibility into long-term recurring revenue.
 
 **Domains I operate in:**
 `Managed Services` `Professional Services` `Broadband & Wi-Fi` `RDK-B` `IoT` `FWA` `QA Engineering` `AI/ML Operationalization` `Connected Devices`
 
-<br clear="right"/>
 
 -----
 
 ## 🎓 Education & Credentials
 
-- 🎓 **B.S., Electrical Engineering** — Djillali Liabes University
+- 🎓 **B.S./M.S.-equivalent,Electrical Engineering(FIS evaluation)** — Djillali Liabes University
 - 🎓 **A.T.A., Business Management (E-Commerce)** — Edmonds College
 - 📜 **Certifications:** Project Management · Six Sigma DMAIC · Agile / Lean / Scrum · Advanced Business Systems Analysis
 
@@ -92,7 +94,7 @@ Active in the **RDK ecosystem** and broader connected-device, broadband, and Wi-
 
 ## 🌐 Languages
 
-`English` · `French` · `Arabic` · `Spanish`
+`English` · `French` · `Arabic` 
 
 -----
 
