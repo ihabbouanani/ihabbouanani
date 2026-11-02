@@ -77,11 +77,11 @@ I lead by doing. I’m energized by ambiguity, hyper-growth, and “zero-to-one�
 <table align="center">
   <tr>
     <td align="center"><img src="rdk-summit-2025.jpg.jpeg" width="380" alt="RDK Tech Summit 2025, London"><br><sub><b>RDK Tech Summit 2025</b> · London, UK</sub></td>
-    <td align="center"><img src="ces-las-vegas.jpg" width="380" alt="CES Las Vegas, USA"><br><sub><b>CES</b> · Las Vegas, USA</sub></td>
+    <td align="center"><img src="ces-las-vegas.jpg.jpeg" width="380" alt="CES Las Vegas, USA"><br><sub><b>CES</b> · Las Vegas, USA</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="evam-istanbul.jpg" width="380" alt="Evam Connect Experience, Istanbul"><br><sub><b>Evam Connect Experience</b> · Istanbul, Türkiye</sub></td>
-    <td align="center"><img src="amsterdam-summit.jpg" width="380" alt="Global Summit, Amsterdam"><br><sub><b>Global Summit</b> · Amsterdam, Netherlands</sub></td>
+    <td align="center"><img src="evam-istanbul.jpg.jpeg" width="380" alt="Evam Connect Experience, Istanbul"><br><sub><b>Evam Connect Experience</b> · Istanbul, Türkiye</sub></td>
+    <td align="center"><img src="amsterdam-summit.jpg.jpeg" width="380" alt="Global Summit, Amsterdam"><br><sub><b>Global Summit</b> · Amsterdam, Netherlands</sub></td>
   </tr>
 </table>
 
