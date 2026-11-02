@@ -72,15 +72,20 @@ I lead by doing. I’m energized by ambiguity, hyper-growth, and “zero-to-one�
 -----
 
 ## 🎤 Industry Presence
-<p align="center">
-  <img src="rdk-summit-2025.jpg.jpeg" width="400" alt="Ihab at RDK Tech Summit 2025">
-  <img src="ces-las-vegas.jpg.jpeg" width="400" alt="Ihab at CES Las Vegas">
-</p>
-<p align="center"><sub>RDK Tech Summit 2025 · CES Las Vegas</sub></p>
+## 🎤 Industry Presence
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="rdk-summit-2025.jpg.jpeg" width="380" alt="RDK Tech Summit 2025, London"><br><sub><b>RDK Tech Summit 2025</b> · London, UK</sub></td>
+    <td align="center"><img src="ces-las-vegas.jpg" width="380" alt="CES Las Vegas, USA"><br><sub><b>CES</b> · Las Vegas, USA</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="evam-istanbul.jpg" width="380" alt="Evam Connect Experience, Istanbul"><br><sub><b>Evam Connect Experience</b> · Istanbul, Türkiye</sub></td>
+    <td align="center"><img src="amsterdam-summit.jpg" width="380" alt="Global Summit, Amsterdam"><br><sub><b>Global Summit</b> · Amsterdam, Netherlands</sub></td>
+  </tr>
+</table>
 
-Active in the **RDK ecosystem** and broader connected-device, broadband, and Wi-Fi industry conversations — including the **RDK Tech Summit 2025** and **CES Las Vegas**. Multi-year commercial relationships with Tier-1 OEMs and operators have repeatedly translated technical credibility into long-term recurring revenue.
-
+Active in the **RDK ecosystem** and broader connected-device, broadband, and Wi-Fi industry conversations — including the **RDK Tech Summit 2025** (London), **CES** (Las Vegas), **Evam Connect Experience** (Istanbul), and the **Global Summit** (Amsterdam). Multi-year commercial relationships with Tier-1 OEMs and operators have repeatedly translated technical credibility into long-term recurring revenue.
 **Domains I operate in:**
 `Managed Services` `Professional Services` `Broadband & Wi-Fi` `RDK-B` `IoT` `FWA` `QA Engineering` `AI/ML Operationalization` `Connected Devices`
 
