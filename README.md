@@ -11,7 +11,7 @@
 📍 Snohomish, WA · Remote-first · US-authorized
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihabbouanani/)
-[![Email](https://img.shields.io/badge/Email-ihabbouanani%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihab@bgtcs22.com)
+[![Email](https://img.shields.io/badge/Email-ihab%40bgtcs22.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihab@bgtcs22.com)
 [![Phone](https://img.shields.io/badge/Phone-(206)%20816--4966-1F3A5F?style=for-the-badge&logo=phone&logoColor=white)](tel:+12068164966)
 
 </div>
