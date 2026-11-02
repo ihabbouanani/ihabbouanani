@@ -73,22 +73,21 @@ I lead by doing. I’m energized by ambiguity, hyper-growth, and “zero-to-one�
 
 ## 🎤 Industry Presence
 
-
-  
-    RDK Tech Summit 2025 · London, UK
-    CES 2024 · Wynn Las Vegas, USA · Jan 2024
-  
-  
-    Evam Connect Experience · Ataşehir, Barbaros Mh., Istanbul, Türkiye · Oct 2024
-    Global Summit · Beurs van Berlage, Amsterdam, Netherlands · Sep 2024
-  
-
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><img src="rdk-summit-2025.jpg.jpeg" width="380" alt="RDK Tech Summit 2025, London"><br><sub><b>RDK Tech Summit 2025</b> · London, UK</sub></td>
+    <td align="center" width="50%"><img src="ces-las-vegas.jpg.jpeg" width="380" alt="CES 2024, Las Vegas"><br><sub><b>CES 2024</b> · Wynn Las Vegas, USA · Jan 2024</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="evam-istanbul.jpg.jpeg" width="380" alt="Evam Connect Experience, Istanbul"><br><sub><b>Evam Connect Experience</b> · Ataşehir, Barbaros Mh., Istanbul, Türkiye · Oct 2024</sub></td>
+    <td align="center" width="50%"><img src="amsterdam-summit.jpg.jpeg" width="380" alt="Global Summit, Amsterdam"><br><sub><b>Global Summit</b> · Beurs van Berlage, Amsterdam, Netherlands · Sep 2024</sub></td>
+  </tr>
+</table>
 
 Active in the **RDK ecosystem** and broader connected-device, broadband, and Wi-Fi industry conversations — including the **RDK Tech Summit 2025** (London), **CES 2024** (Las Vegas), **Evam Connect Experience 2024** (Istanbul), and the **Global Summit 2024** (Amsterdam). Multi-year commercial relationships with Tier-1 OEMs and operators have repeatedly translated technical credibility into long-term recurring revenue.
 
 **Domains I operate in:**
 `Managed Services` `Professional Services` `Broadband & Wi-Fi` `RDK-B` `IoT` `FWA` `QA Engineering` `AI/ML Operationalization` `Connected Devices`
-
 
 -----
 
