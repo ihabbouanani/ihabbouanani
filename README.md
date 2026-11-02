@@ -74,7 +74,7 @@ I lead by doing. I’m energized by ambiguity, hyper-growth, and “zero-to-one�
 ## 🎤 Industry Presence
 <p align="center">
   <img src="rdk-summit-2025.jpg.jpeg" width="400" alt="Ihab at RDK Tech Summit 2025">
-  <img src="ces-las-vegas.jpg" width="400" alt="Ihab at CES Las Vegas">
+  <img src="ces-las-vegas.jpg.jpeg" width="400" alt="Ihab at CES Las Vegas">
 </p>
 <p align="center"><sub>RDK Tech Summit 2025 · CES Las Vegas</sub></p>
 
